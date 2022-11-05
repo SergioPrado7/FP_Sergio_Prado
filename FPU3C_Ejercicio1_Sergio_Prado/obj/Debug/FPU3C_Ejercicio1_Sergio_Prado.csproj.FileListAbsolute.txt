@@ -1,0 +1,16 @@
+C:\Users\Sergio\source\repos\FPU3C_Ejercicio1_Sergio_Prado\FPU3C_Ejercicio1_Sergio_Prado\bin\Debug\FPU3C_Ejercicio1_Sergio_Prado.exe.config
+C:\Users\Sergio\source\repos\FPU3C_Ejercicio1_Sergio_Prado\FPU3C_Ejercicio1_Sergio_Prado\bin\Debug\FPU3C_Ejercicio1_Sergio_Prado.exe
+C:\Users\Sergio\source\repos\FPU3C_Ejercicio1_Sergio_Prado\FPU3C_Ejercicio1_Sergio_Prado\bin\Debug\FPU3C_Ejercicio1_Sergio_Prado.pdb
+C:\Users\Sergio\source\repos\FPU3C_Ejercicio1_Sergio_Prado\FPU3C_Ejercicio1_Sergio_Prado\obj\Debug\FPU3C_Ejercicio1_Sergio_Prado.csproj.AssemblyReference.cache
+C:\Users\Sergio\source\repos\FPU3C_Ejercicio1_Sergio_Prado\FPU3C_Ejercicio1_Sergio_Prado\obj\Debug\FPU3C_Ejercicio1_Sergio_Prado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio\source\repos\FPU3C_Ejercicio1_Sergio_Prado\FPU3C_Ejercicio1_Sergio_Prado\obj\Debug\FPU3C_Ejercicio1_Sergio_Prado.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\repos\FPU3C_Ejercicio1_Sergio_Prado\FPU3C_Ejercicio1_Sergio_Prado\obj\Debug\FPU3C_Ejercicio1_Sergio_Prado.exe
+C:\Users\Sergio\source\repos\FPU3C_Ejercicio1_Sergio_Prado\FPU3C_Ejercicio1_Sergio_Prado\obj\Debug\FPU3C_Ejercicio1_Sergio_Prado.pdb
+C:\Users\Sergio\Documents\Proyectos de Visual Studio\FPU3C_Ejercicio1_Sergio_Prado\FPU3C_Ejercicio1_Sergio_Prado\bin\Debug\FPU3C_Ejercicio1_Sergio_Prado.exe.config
+C:\Users\Sergio\Documents\Proyectos de Visual Studio\FPU3C_Ejercicio1_Sergio_Prado\FPU3C_Ejercicio1_Sergio_Prado\bin\Debug\FPU3C_Ejercicio1_Sergio_Prado.exe
+C:\Users\Sergio\Documents\Proyectos de Visual Studio\FPU3C_Ejercicio1_Sergio_Prado\FPU3C_Ejercicio1_Sergio_Prado\bin\Debug\FPU3C_Ejercicio1_Sergio_Prado.pdb
+C:\Users\Sergio\Documents\Proyectos de Visual Studio\FPU3C_Ejercicio1_Sergio_Prado\FPU3C_Ejercicio1_Sergio_Prado\obj\Debug\FPU3C_Ejercicio1_Sergio_Prado.csproj.AssemblyReference.cache
+C:\Users\Sergio\Documents\Proyectos de Visual Studio\FPU3C_Ejercicio1_Sergio_Prado\FPU3C_Ejercicio1_Sergio_Prado\obj\Debug\FPU3C_Ejercicio1_Sergio_Prado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio\Documents\Proyectos de Visual Studio\FPU3C_Ejercicio1_Sergio_Prado\FPU3C_Ejercicio1_Sergio_Prado\obj\Debug\FPU3C_Ejercicio1_Sergio_Prado.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Documents\Proyectos de Visual Studio\FPU3C_Ejercicio1_Sergio_Prado\FPU3C_Ejercicio1_Sergio_Prado\obj\Debug\FPU3C_Ejercicio1_Sergio_Prado.exe
+C:\Users\Sergio\Documents\Proyectos de Visual Studio\FPU3C_Ejercicio1_Sergio_Prado\FPU3C_Ejercicio1_Sergio_Prado\obj\Debug\FPU3C_Ejercicio1_Sergio_Prado.pdb
